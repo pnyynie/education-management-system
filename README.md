@@ -1,10 +1,10 @@
 # education-management-system
 
-# Vue 3 + Vite
+## Vue 3 + Vite
 
-# node v14.17.0
+## node v14.17.0
 
-# yarn 1.22.19
+## yarn 1.22.19
 
 * [Vue 3](https://v3.cn.vuejs.org/api/)
 * [Element Plus](https://element-plus.gitee.io/zh-CN/component/button.html)
